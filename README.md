@@ -1,1 +1,2 @@
-This notebook provides a solution how to build Naive Bayes algorithm from scratch
+# dataquest-projects
+Storage for my projects from Dataquest 
