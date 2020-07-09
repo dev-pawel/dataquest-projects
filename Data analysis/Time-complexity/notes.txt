@@ -1,0 +1,15 @@
+My notes
+
+Using two loops in read.py file we can search for a key word in the list of list, it was a time complex task O(n**2).
+
+The second method is linear time algorithm O(n).
+
+There are some trade-offs between these approaches. The first one stores each row separately so it can be easly accessed by index, whereas in the second dataset we can find specific word faster if we don't know it's index.
+
+To find searched value in hash table is even harder becasue we need to itterate over all dictionaries and over all keys and values in these dictionaries.
+
+Possible futher steps:
+- Map out accidents using the basemap library for matplotlib.
+- Count the number of accidents by air carrier.
+- Count the number of accidents by airplane make and model.
+- Figure out what percentage of accidents occur under adverse     weather conditions.
